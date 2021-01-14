@@ -1,2 +1,2 @@
 # Meetup_chatApp
-Chat app done with flutter
+Chat app UI done in flutter.
