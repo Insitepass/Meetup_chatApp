@@ -1,2 +1,3 @@
 # Meetup_chatApp
-Chat app UI done in flutter.
+Chat app done with React Native.
+**Coming Soon **
